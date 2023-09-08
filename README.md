@@ -37,16 +37,15 @@ To start using TaskMaster, follow these straightforward steps:
 
 ## Screenshots
 
-![Screenshot 1](insert_screenshot_url_1_here)
-*Description of Screenshot 1.*
+![Screenshot 1](Screenshots/Screenshot%20_1.png)
 
-![Screenshot 2](insert_screenshot_url_2_here)
+![Screenshot 2](Screenshots/Screenshot%20_2.png)
+![Screenshot 3](Screenshots/Screenshot%20_3.png)
+![Screenshot 4](Screenshots/Screenshot%20_4.png)
+![Screenshot 5](Screenshots/Screenshot%20_5.png)
+
+
 *Description of Screenshot 2.*
-
-<<<<<<< HEAD
-## Contributing
-
-We welcome contributions from the open-source community. If you'd like to contribute to TaskMaster, please read our [Contribution Guidelines](CONTRIBUTING.md) for more details.
 
 ## License
 
@@ -54,12 +53,11 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 =======
 ## Deployed Links
 
-- [TaskMaster Demo](insert_demo_link_here)
-- [TaskMaster Backend](insert_backend_deployed_link_here)
+- [TaskMaster Demo](https://taskmaasterr.netlify.app/)
+- [TaskMaster Backend](https://taskmaster-24ih.onrender.com/api/v1/)
 
 ## License
 
 TaskMaster is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
 
 Thank you for choosing TaskMaster for your task management needs. We hope this application enhances your productivity and organization.
->>>>>>> 713d41d40ae5ac1ff426f9df64022bbe4cbd8298
