@@ -36,7 +36,7 @@ To start using TaskMaster, follow these straightforward steps:
 
 ## Screenshots
 
-![Screenshot 1](screenshot/Screeenshot_1.png)
+![Screenshot 1](screenshot/Screenshot%20_1.png)
 
 ![Screenshot 2](screenshot/Screenshot%20_2.png)
 ![Screenshot 3](screenshot/Screenshot%20_3.png)
