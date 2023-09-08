@@ -33,7 +33,6 @@ To start using TaskMaster, follow these straightforward steps:
 3. **Add Tasks:** Populate your lists with tasks.
 
 4. **Task Management:** Drag tasks between sections to update their status, mark important tasks as favorites, edit task details, or delete completed tasks.
->>>>>>> 713d41d40ae5ac1ff426f9df64022bbe4cbd8298
 
 ## Screenshots
 
