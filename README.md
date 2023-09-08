@@ -37,12 +37,12 @@ To start using TaskMaster, follow these straightforward steps:
 
 ## Screenshots
 
-![Screenshot 1](Screenshot/Screenshot%20_1.png)
+![Screenshot 1](screenshot/Screeenshot_1.png)
 
-![Screenshot 2](Screenshot/Screenshot%20_2.png)
-![Screenshot 3](Screenshot/Screenshot%20_3.png)
-![Screenshot 4](Screenshot/Screenshot%20_4.png)
-![Screenshot 5](Screenshot/Screenshot%20_5.png)
+![Screenshot 2](screenshot/Screenshot%20_2.png)
+![Screenshot 3](screenshot/Screenshot%20_3.png)
+![Screenshot 4](screenshot/Screenshot%20_4.png)
+![Screenshot 5](screenshot/Screenshot%20_5.png)
 
 
 ## License
